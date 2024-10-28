@@ -3,11 +3,10 @@
 |*The same view of the Iztaccihuatl volcano I had while growing up. A nostalgic, you see.*|
 
 
-<h3 align="center" style="font-family: Arial, sans-serif; color: #333;">
-  <span style="color: #ff6347;">⇨⇨</span> 
-  Click <a href="https://apologospm.github.io/" style="color: #1e90ff; text-decoration: none;">here</a> to check my portfolio's web page 
-  <span style="color: #ff6347;">⇦⇦</span>
+<h3 align="center">
+  ➡➡ Click <a href="https://apologospm.github.io/">here</a> to check my portfolio's web page ⬅⬅
 </h3>
+
 
 
 
