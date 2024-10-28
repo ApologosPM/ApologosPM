@@ -4,7 +4,7 @@
 
 
 <b align="center">
-
+This is some text
 </b>
 
 # :briefcase: Welcome to my Github profile
