@@ -1,5 +1,6 @@
-![Profile Banner](https://i.imgur.com/j4zzfzE.png)
-*The same view of the Iztaccihuatl I had while growing up. A nostalgic, you see.*
+|![Profile Banner](https://i.imgur.com/j4zzfzE.png)|
+|:--:| 
+|*The same view of the Iztaccihuatl I had while growing up. A nostalgic, you see.*|
 
 ## 👋 About Me
 
