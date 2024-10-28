@@ -19,7 +19,7 @@ Hi! I'm [Your Name], a passionate [Your Profession] with a knack for [Your Speci
 
 ## 📈 GitHub Stats
 
-!Your GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apologospm)](https://github.com/apologospm/github-readme-stats)
 
 ## 🚀 Projects
 
