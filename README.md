@@ -1,12 +1,12 @@
 |![Profile Banner](https://i.imgur.com/j4zzfzE.png)|
 |:--:| 
-|*The same view of the Iztaccihuatl I had while growing up. A nostalgic, you see.*|
+|*The same view of the Iztaccihuatl volcano I had while growing up. A nostalgic, you see.*|
 
-# Welcome to my portfolio
+# :briefcase: Welcome to my portfolio
 
-## Here are some of my projects
+I am a developer in the making, specialized in using AI technologies for finding solutions, and follow the project from A to Z. 
 
-# What is a 'full-stack' developer anyway?
+
 
 Hi! I'm [Your Name], a passionate [Your Profession] with a knack for [Your Specialization]. I love creating innovative solutions and contributing to open-source projects. 
 
