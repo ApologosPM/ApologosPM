@@ -14,27 +14,11 @@ I am a developer in the making, specialized in using AI technologies for finding
 * Develop the front end of a web app to showcase the funcionalities of the AI service
 * Manage through a ML-OPs paradigm the created app/services
 
-## Projects I have worked on
-
-- 🌱 Currently learning: [What you're learning]
-- 👯 Looking to collaborate on: [Projects or areas of interest]
-- 💬 Ask me about: [Topics you're knowledgeable about]
-- 📫 How to reach me: [Your email or LinkedIn]
-
-## 🛠️ Skills
-
-- **Languages:**
-- This
-- or
-- that[List of programming languages]
-- **Frameworks:** [List of frameworks]
-- **Tools:** [List of tools and software]
-
 ## 📈 GitHub Stats
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apologospm)](https://github.com/apologospm/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apologospm)](https://github.com/apologospm/github-readme-stats)
 
-## 🚀 Projects
+## 🚀 Projects I have worked on: 
 
 ### [Project 1 Name]
 **Description:** Brief description of the project.  
