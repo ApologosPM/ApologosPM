@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-This is some text
+Click [here](https://google.com) to see what's up
 </H3>
 
 # :briefcase: Welcome to my Github profile
