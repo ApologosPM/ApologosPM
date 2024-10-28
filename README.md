@@ -3,9 +3,9 @@
 |*The same view of the Iztaccihuatl volcano I had while growing up. A nostalgic, you see.*|
 
 
-## <div align="center">
+<h2 align="center">
 Do you prefer to 
-</div>
+</h2>
 
 # :briefcase: Welcome to my Github profile
 
