@@ -1,7 +1,7 @@
 |![Profile Banner](https://i.imgur.com/j4zzfzE.png)|
 |:--:| 
 |*The same view of the Iztaccihuatl volcano I had while growing up. A nostalgic, you see.*|
-|*The same view of the Iztaccihuatl volcano I had while growing up. A nostalgic, you see.*|
+|The same view of the Iztaccihuatl volcano I had while growing up. A nostalgic, you see.|
 
 
 # :briefcase: Welcome to my Github profile
