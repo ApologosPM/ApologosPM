@@ -8,8 +8,6 @@
 </h3>
 
 
-
-
 # :briefcase: Welcome to my Github profile
 
 I am a developer in the making, specialized in using AI technologies for finding solutions, and follow the project from A to Z. I use the term 'full-stack' to make the parallel with the well known web-developpment paradigm. The idea, at the end, is to have the general knowledge to:
@@ -23,7 +21,7 @@ I am a developer in the making, specialized in using AI technologies for finding
 * Manage through a ML-OPs paradigm the created app/services
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apologospm&hide=scss&layout=donut)](https://github.com/apologospm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apologospm&hide=scss&layout=donut&exclude_repo=apologos.github.io,apologos)](https://github.com/apologospm/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apologospm)](https://github.com/apologospm/github-readme-stats)
 
 ## 🚀 Some of my projects: 
