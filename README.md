@@ -4,8 +4,15 @@
 
 # :briefcase: Welcome to my portfolio
 
-I am a developer in the making, specialized in using AI technologies for finding solutions, and follow the project from A to Z. 
+I am a developer in the making, specialized in using AI technologies for finding solutions, and follow the project from A to Z. I use the term 'full-stack' to make the parallel with the well known web developpment paradigm. The idea, at the end, is to have the general knowledge to:
 
+* Set up and manage a database
+* Differentiate AI technologies and solutions
+* Know when to implement APIs vs when to create new AI models
+* Train an AI model
+* Create API services
+* Develop the front end of a web app to showcase the funcionalities of the AI service
+* Manage through a ML-OPs paradigm the created app/services
 
 
 Hi! I'm [Your Name], a passionate [Your Profession] with a knack for [Your Specialization]. I love creating innovative solutions and contributing to open-source projects. 
