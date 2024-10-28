@@ -15,7 +15,7 @@ I am a developer in the making, specialized in using AI technologies for finding
 * Manage through a ML-OPs paradigm the created app/services
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apologospm&layout=donut-vertical&hide=css,html)](https://github.com/apologospm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apologospm&hide=scss)](https://github.com/apologospm/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apologospm)](https://github.com/apologospm/github-readme-stats)
 
 ## 🚀 Projects I have worked on: 
