@@ -2,7 +2,11 @@
 |:--:| 
 |*The same view of the Iztaccihuatl I had while growing up. A nostalgic, you see.*|
 
-## 👋 About Me
+# Welcome to my portfolio
+
+## Here are some of my projects
+
+# What is a 'full-stack' developer anyway?
 
 Hi! I'm [Your Name], a passionate [Your Profession] with a knack for [Your Specialization]. I love creating innovative solutions and contributing to open-source projects. 
 
