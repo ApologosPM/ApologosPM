@@ -2,6 +2,7 @@
 |:--:| 
 |*The same view of the Iztaccihuatl volcano I had while growing up. A nostalgic, you see.*|
 
+|:--:|
 |*Click here if you want to check out my portfolio's web page*|
 
 # :briefcase: Welcome to my Github profile
