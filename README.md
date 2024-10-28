@@ -1,6 +1,6 @@
 # 💼 [Your Name]'s Portfolio
 
-[!Profile Banner](https://imgur.com/a/T3VhRCs)
+[![Profile Banner](https://imgur.com/a/T3VhRCs)]
 
 ## 👋 About Me
 
