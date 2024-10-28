@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  ➡➡ Click <a href="https://apologospm.github.io/">here</a> to check my portfolio's web page ⬅⬅
+  ➡➡ <a href="https://apologospm.github.io/"> Click here to check my portfolio"s web page</a> ⬅⬅
 </h3>
 
 
