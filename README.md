@@ -4,8 +4,9 @@
 
 
 <h3 align="center">
-Click [here](https://google.com) to see what's up
-</H3>
+  Click <a href="https://www.google.com">here</a> to see what's up
+</h3>
+
 
 # :briefcase: Welcome to my Github profile
 
