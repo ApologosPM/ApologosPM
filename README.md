@@ -2,7 +2,7 @@
 |:--:| 
 |*The same view of the Iztaccihuatl volcano I had while growing up. A nostalgic, you see.*|
 
-
+:arrow_right: :arrow_right:
 <h3 align="center">
   Click <a href="https://apologospm.github.io/">here</a> to check my portfolio's web page
 </h3>
