@@ -1,5 +1,5 @@
 ![Profile Banner](https://i.imgur.com/j4zzfzE.png)
-Why a mountain? Because they are cool. It is also the view I had from my childhood home. It is called the Iztaccihuatl, and it's a dormant volcano.
+*Why a mountain? Because they are cool. It is also the view I had from my childhood home. It is called the Iztaccihuatl, and it's a dormant volcano*
 
 ## 👋 About Me
 
