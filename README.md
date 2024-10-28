@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  Click <a href="https://www.google.com">here</a> to see what's up
+  Click <a href="https://apologospm.github.io/">here</a> to check my portfolio's web page
 </h3>
 
 
