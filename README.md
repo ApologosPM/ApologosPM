@@ -3,7 +3,9 @@
 |*The same view of the Iztaccihuatl volcano I had while growing up. A nostalgic, you see.*|
 
 
-### Do you prefer to 
+<div align="center">
+This text is centered
+</div>
 
 # :briefcase: Welcome to my Github profile
 
