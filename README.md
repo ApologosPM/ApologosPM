@@ -1,10 +1,10 @@
 |![Profile Banner](https://i.imgur.com/j4zzfzE.png)|
 |:--:| 
-|*The view of the Iztaccihuatl volcano I stared at while growing up, because why not?*|
+|*The view of the Iztaccihuatl volcano I stared at every day while growing up, because why not?*|
 
 
 <h3 align="center">
-  ➡➡ <a href="https://apologospm.github.io/"> Click here to check my portfolio"s web page</a> ⬅⬅
+  ➡➡ <a href="https://apologospm.github.io/"> Click here to check my portfolio's web page</a> ⬅⬅
 </h3>
 
 
